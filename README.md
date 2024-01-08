@@ -1,3 +1,5 @@
 https://demobootstrapwebsite.web.app/
 
-Demo website created to demostrate html, scss, and bootstrap skills
+Demo website created to demonstrate HTML, (s)css, and bootstrap skills
+
+No templates used
